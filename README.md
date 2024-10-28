@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
+
 <!--
 **Josed2024/Josed2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
